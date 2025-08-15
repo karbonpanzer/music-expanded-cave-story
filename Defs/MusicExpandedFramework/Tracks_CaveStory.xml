@@ -1,0 +1,279 @@
+<?xml version="1.0" ?>
+<Defs>
+    <MusicExpanded.TrackDef>
+        <defName>CS_001</defName>
+        <label>Cave Story - Cave Story</label>
+        <clipPath>MusicExpanded/CaveStory/1-01. Cave Story</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_002</defName>
+        <label>Cave Story - Access</label>
+        <clipPath>MusicExpanded/CaveStory/1-02. Access</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_003</defName>
+        <label>Cave Story - Gestation</label>
+        <clipPath>MusicExpanded/CaveStory/1-03. Gestation</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_004</defName>
+        <label>Cave Story - Obtained a Life Capsule!</label>
+        <clipPath>MusicExpanded/CaveStory/1-04. Obtained a Life Capsule!</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_005</defName>
+        <label>Cave Story - Mimiga Town</label>
+        <clipPath>MusicExpanded/CaveStory/1-05. Mimiga Town</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_006</defName>
+        <label>Cave Story - Plant</label>
+        <clipPath>MusicExpanded/CaveStory/1-06. Plant</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_007</defName>
+        <label>Cave Story - Balrog's Theme</label>
+        <clipPath>MusicExpanded/CaveStory/1-07. Balrog's Theme</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_008</defName>
+        <label>Cave Story - Gravity</label>
+        <clipPath>MusicExpanded/CaveStory/1-08. Gravity</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_009</defName>
+        <label>Cave Story - Victory!</label>
+        <clipPath>MusicExpanded/CaveStory/1-09. Victory!</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_010</defName>
+        <label>Cave Story - Cemetery</label>
+        <clipPath>MusicExpanded/CaveStory/1-10. Cemetery</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_011</defName>
+        <label>Cave Story - Got Item!</label>
+        <clipPath>MusicExpanded/CaveStory/1-11. Got Item!</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_012</defName>
+        <label>Cave Story - Safety</label>
+        <clipPath>MusicExpanded/CaveStory/1-12. Safety</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_013</defName>
+        <label>Cave Story - Mischievous Robot</label>
+        <clipPath>MusicExpanded/CaveStory/1-13. Mischievous Robot</clipPath>
+        <cue>BattleSmall,BattleMedium,BattleLarge,BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_014</defName>
+        <label>Cave Story - Pulse</label>
+        <clipPath>MusicExpanded/CaveStory/1-14. Pulse</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_015</defName>
+        <label>Cave Story - On to Grasstown</label>
+        <clipPath>MusicExpanded/CaveStory/1-15. On to Grasstown</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_016</defName>
+        <label>Cave Story - Eyes of Flame</label>
+        <clipPath>MusicExpanded/CaveStory/1-16. Eyes of Flame</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_017</defName>
+        <label>Cave Story - Meltdown 2</label>
+        <clipPath>MusicExpanded/CaveStory/1-17. Meltdown 2</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_018</defName>
+        <label>Cave Story - Tyrant</label>
+        <clipPath>MusicExpanded/CaveStory/1-18. Tyrant</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_019</defName>
+        <label>Cave Story - Run!</label>
+        <clipPath>MusicExpanded/CaveStory/1-19. Run!</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_020</defName>
+        <label>Cave Story - Jenka 1</label>
+        <clipPath>MusicExpanded/CaveStory/1-20. Jenka 1</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_021</defName>
+        <label>Cave Story - Jenka 2</label>
+        <clipPath>MusicExpanded/CaveStory/1-21. Jenka 2</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_022</defName>
+        <label>Cave Story - Labyrinth Fight</label>
+        <clipPath>MusicExpanded/CaveStory/1-22. Labyrinth Fight</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_023</defName>
+        <label>Cave Story - Geothermal</label>
+        <clipPath>MusicExpanded/CaveStory/1-23. Geothermal</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_024</defName>
+        <label>Cave Story - Oppression</label>
+        <clipPath>MusicExpanded/CaveStory/1-24. Oppression</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_025</defName>
+        <label>Cave Story - Living Waterway</label>
+        <clipPath>MusicExpanded/CaveStory/1-25. Living Waterway</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_026</defName>
+        <label>Cave Story - Quiet</label>
+        <clipPath>MusicExpanded/CaveStory/1-26. Quiet</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_027</defName>
+        <label>Cave Story - Scorching Back</label>
+        <clipPath>MusicExpanded/CaveStory/1-27. Scorching Back</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_028</defName>
+        <label>Cave Story - Moonsong</label>
+        <clipPath>MusicExpanded/CaveStory/1-28. Moonsong</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_029</defName>
+        <label>Cave Story - Hero's End</label>
+        <clipPath>MusicExpanded/CaveStory/1-29. Hero's End</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_030</defName>
+        <label>Cave Story - Last Cave</label>
+        <clipPath>MusicExpanded/CaveStory/1-30. Last Cave</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_031</defName>
+        <label>Cave Story - Balcony</label>
+        <clipPath>MusicExpanded/CaveStory/1-31. Balcony</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_032</defName>
+        <label>Cave Story - Charge</label>
+        <clipPath>MusicExpanded/CaveStory/1-32. Charge</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_033</defName>
+        <label>Cave Story - Zombie</label>
+        <clipPath>MusicExpanded/CaveStory/1-33. Zombie</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_034</defName>
+        <label>Cave Story - Break Down</label>
+        <clipPath>MusicExpanded/CaveStory/1-34. Break Down</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_035</defName>
+        <label>Cave Story - Running Hell</label>
+        <clipPath>MusicExpanded/CaveStory/1-35. Running Hell</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_036</defName>
+        <label>Cave Story - Seal Chamber</label>
+        <clipPath>MusicExpanded/CaveStory/1-36. Seal Chamber</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_037</defName>
+        <label>Cave Story - Last Battle</label>
+        <clipPath>MusicExpanded/CaveStory/1-37. Last Battle</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_038</defName>
+        <label>Cave Story - The Way Back Home</label>
+        <clipPath>MusicExpanded/CaveStory/1-38. The Way Back Home</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_039</defName>
+        <label>Cave Story - Toroko's Theme</label>
+        <clipPath>MusicExpanded/CaveStory/1-39. Toroko's Theme</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_040</defName>
+        <label>Cave Story - White</label>
+        <clipPath>MusicExpanded/CaveStory/1-40. White</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_041</defName>
+        <label>Cave Story - Wind Fortress Cave Story+</label>
+        <clipPath>MusicExpanded/CaveStory/1-41. Wind Fortress [Cave Story+]</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_042</defName>
+        <label>Cave Story - Halloween 2 Cave Story+</label>
+        <clipPath>MusicExpanded/CaveStory/1-42. Halloween 2 [Cave Story+]</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_043</defName>
+        <label>Cave Story - Game Over</label>
+        <clipPath>MusicExpanded/CaveStory/1-43. Game Over</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_044</defName>
+        <label>Cave Story - Pier Walk Unused</label>
+        <clipPath>MusicExpanded/CaveStory/1-44. Pier Walk [Unused]</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_045</defName>
+        <label>Cave Story - Snoopy Cake (Rockorg) Unused</label>
+        <clipPath>MusicExpanded/CaveStory/1-45. Snoopy Cake (Rockorg) [Unused]</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_046</defName>
+        <label>Cave Story - Meltdown Unused</label>
+        <clipPath>MusicExpanded/CaveStory/1-46. Meltdown [Unused]</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_047</defName>
+        <label>Cave Story - People of the Root Unused</label>
+        <clipPath>MusicExpanded/CaveStory/1-47. People of the Root [Unused]</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_048</defName>
+        <label>Cave Story - Gestation (Internal Percussion)</label>
+        <clipPath>MusicExpanded/CaveStory/2-01. Gestation (Internal Percussion)</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_049</defName>
+        <label>Cave Story - Gravity (Internal Percussion)</label>
+        <clipPath>MusicExpanded/CaveStory/2-02. Gravity (Internal Percussion)</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_050</defName>
+        <label>Cave Story - Got Item! (Internal Percussion)</label>
+        <clipPath>MusicExpanded/CaveStory/2-03. Got Item! (Internal Percussion)</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_051</defName>
+        <label>Cave Story - Cemetery (Internal Percussion)</label>
+        <clipPath>MusicExpanded/CaveStory/2-04. Cemetery (Internal Percussion)</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_052</defName>
+        <label>Cave Story - Living Waterway (Internal Percussion)</label>
+        <clipPath>MusicExpanded/CaveStory/2-05. Living Waterway (Internal Percussion)</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_053</defName>
+        <label>Cave Story - The Way Back Home (Internal Percussion)</label>
+        <clipPath>MusicExpanded/CaveStory/2-06. The Way Back Home (Internal Percussion)</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_054</defName>
+        <label>Cave Story - White (Internal Percussion)</label>
+        <clipPath>MusicExpanded/CaveStory/2-07. White (Internal Percussion)</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <defName>CS_055</defName>
+        <label>Cave Story - People of the Root (Internal Percussion)</label>
+        <clipPath>MusicExpanded/CaveStory/2-08. People of the Root (Internal Percussion)</clipPath>
+    </MusicExpanded.TrackDef>
+</Defs>

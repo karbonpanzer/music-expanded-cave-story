@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>musicexpandedcavestory</defName>
+        <label>Music Expanded: Cave Story</label>
+		<description>A complete music expanded for the classic game, Cave Story.</description>		
+        <iconPath>UI/Icons/CS</iconPath>
+        <tracks>
+            <li>CS_001</li>
+            <li>CS_002</li>
+            <li>CS_003</li>
+            <li>CS_004</li>
+            <li>CS_005</li>
+            <li>CS_006</li>
+            <li>CS_007</li>
+            <li>CS_008</li>
+            <li>CS_009</li>
+            <li>CS_010</li>
+            <li>CS_011</li>
+            <li>CS_012</li>
+            <li>CS_013</li>
+            <li>CS_014</li>
+            <li>CS_015</li>
+            <li>CS_016</li>
+            <li>CS_017</li>
+            <li>CS_018</li>
+            <li>CS_019</li>
+            <li>CS_020</li>
+            <li>CS_021</li>
+            <li>CS_022</li>
+            <li>CS_023</li>
+            <li>CS_024</li>
+            <li>CS_025</li>
+            <li>CS_026</li>
+            <li>CS_027</li>
+            <li>CS_028</li>
+            <li>CS_029</li>
+            <li>CS_030</li>
+            <li>CS_031</li>
+            <li>CS_032</li>
+            <li>CS_033</li>
+            <li>CS_034</li>
+            <li>CS_035</li>
+            <li>CS_036</li>
+            <li>CS_037</li>
+            <li>CS_038</li>
+            <li>CS_039</li>
+            <li>CS_040</li>
+            <li>CS_041</li>
+            <li>CS_042</li>
+            <li>CS_043</li>
+            <li>CS_044</li>
+            <li>CS_045</li>
+            <li>CS_046</li>
+            <li>CS_047</li>
+            <li>CS_048</li>
+            <li>CS_049</li>
+            <li>CS_050</li>
+            <li>CS_051</li>
+            <li>CS_052</li>
+            <li>CS_053</li>
+            <li>CS_054</li>
+            <li>CS_055</li>
+        </tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
